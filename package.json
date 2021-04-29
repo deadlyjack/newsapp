@@ -13,7 +13,7 @@
   "dependencies": {
     "autoprefixer": "^9.6.1",
     "autosize": "^4.0.2",
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "compressorjs": "^1.0.6",
     "cookie-parser": "^1.4.4",
     "dotenv": "^8.2.0",
